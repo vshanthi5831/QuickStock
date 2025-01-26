@@ -1,0 +1,546 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Smartphone",
+      "category": "electronics"
+    },
+    {
+      "id": "2",
+      "name": "Laptop",
+      "category": "electronics"
+    },
+    {
+      "id": "3",
+      "name": "Tablet",
+      "category": "electronics"
+    },
+    {
+      "id": "4",
+      "name": "Smartwatch",
+      "category": "electronics"
+    },
+    {
+      "id": "5",
+      "name": "Camera",
+      "category": "electronics"
+    },
+    {
+      "id": "6",
+      "name": "Bluetooth Speaker",
+      "category": "electronics"
+    },
+    {
+      "id": "8",
+      "name": "Keyboard",
+      "category": "electronics"
+    },
+    {
+      "id": "9",
+      "name": "Mouse",
+      "category": "electronics"
+    },
+    {
+      "id": "10",
+      "name": "Monitor",
+      "category": "electronics"
+    },
+    {
+      "id": "11",
+      "name": "Power Bank",
+      "category": "electronics"
+    },
+    {
+      "id": "12",
+      "name": "Printer",
+      "category": "electronics"
+    },
+    {
+      "id": "13",
+      "name": "Gaming Console",
+      "category": "electronics"
+    },
+    {
+      "id": "14",
+      "name": "Drone",
+      "category": "electronics"
+    },
+    {
+      "id": "15",
+      "name": "VR Headset",
+      "category": "electronics"
+    },
+    {
+      "id": "16",
+      "name": "Smart Home Hub",
+      "category": "electronics"
+    },
+    {
+      "id": "18",
+      "name": "E-Reader",
+      "category": "electronics"
+    },
+    {
+      "id": "19",
+      "name": "External Hard Drive",
+      "category": "electronics"
+    },
+    {
+      "id": "20",
+      "name": "USB Flash Drive",
+      "category": "electronics"
+    },
+    {
+      "id": "21",
+      "name": "T-Shirt",
+      "category": "fashion"
+    },
+    {
+      "id": "22",
+      "name": "Jeans",
+      "category": "fashion"
+    },
+    {
+      "id": "23",
+      "name": "Jacket",
+      "category": "fashion"
+    },
+    {
+      "id": "24",
+      "name": "Sneakers",
+      "category": "fashion"
+    },
+    {
+      "id": "25",
+      "name": "Cap",
+      "category": "fashion"
+    },
+    {
+      "id": "26",
+      "name": "Sunglasses",
+      "category": "fashion"
+    },
+    {
+      "id": "27",
+      "name": "Scarf",
+      "category": "fashion"
+    },
+    {
+      "id": "28",
+      "name": "Watch",
+      "category": "fashion"
+    },
+    {
+      "id": "29",
+      "name": "Dress",
+      "category": "fashion"
+    },
+    {
+      "id": "30",
+      "name": "Blouse",
+      "category": "fashion"
+    },
+    {
+      "id": "31",
+      "name": "Formal Shirt",
+      "category": "fashion"
+    },
+    {
+      "id": "32",
+      "name": "Suit",
+      "category": "fashion"
+    },
+    {
+      "id": "33",
+      "name": "Belt",
+      "category": "fashion"
+    },
+    {
+      "id": "34",
+      "name": "Socks",
+      "category": "fashion"
+    },
+    {
+      "id": "35",
+      "name": "Shoes",
+      "category": "fashion"
+    },
+    {
+      "id": "36",
+      "name": "Skirt",
+      "category": "fashion"
+    },
+    {
+      "id": "37",
+      "name": "Shorts",
+      "category": "fashion"
+    },
+    {
+      "id": "38",
+      "name": "Tie",
+      "category": "fashion"
+    },
+    {
+      "id": "39",
+      "name": "Gloves",
+      "category": "fashion"
+    },
+    {
+      "id": "40",
+      "name": "Coat",
+      "category": "fashion"
+    },
+    {
+      "id": "41",
+      "name": "Sofa",
+      "category": "home"
+    },
+    {
+      "id": "42",
+      "name": "Dining Table",
+      "category": "home"
+    },
+    {
+      "id": "43",
+      "name": "Chair",
+      "category": "home"
+    },
+    {
+      "id": "44",
+      "name": "Bookshelf",
+      "category": "home"
+    },
+    {
+      "id": "45",
+      "name": "Lamp",
+      "category": "home"
+    },
+    {
+      "id": "46",
+      "name": "Carpet",
+      "category": "home"
+    },
+    {
+      "id": "47",
+      "name": "Curtains",
+      "category": "home"
+    },
+    {
+      "id": "48",
+      "name": "Bed",
+      "category": "home"
+    },
+    {
+      "id": "49",
+      "name": "Wardrobe",
+      "category": "home"
+    },
+    {
+      "id": "50",
+      "name": "Pillow",
+      "category": "home"
+    },
+    {
+      "id": "51",
+      "name": "Cookware Set",
+      "category": "kitchen"
+    },
+    {
+      "id": "52",
+      "name": "Knife Set",
+      "category": "kitchen"
+    },
+    {
+      "id": "53",
+      "name": "Cutting Board",
+      "category": "kitchen"
+    },
+    {
+      "id": "54",
+      "name": "Dinner Set",
+      "category": "kitchen"
+    },
+    {
+      "id": "55",
+      "name": "Blender",
+      "category": "kitchen"
+    },
+    {
+      "id": "56",
+      "name": "Microwave",
+      "category": "kitchen"
+    },
+    {
+      "id": "57",
+      "name": "Refrigerator",
+      "category": "kitchen"
+    },
+    {
+      "id": "58",
+      "name": "Oven",
+      "category": "kitchen"
+    },
+    {
+      "id": "59",
+      "name": "Toaster",
+      "category": "kitchen"
+    },
+    {
+      "id": "60",
+      "name": "Coffee Maker",
+      "category": "kitchen"
+    },
+    {
+      "id": "61",
+      "name": "Football",
+      "category": "sports"
+    },
+    {
+      "id": "62",
+      "name": "Basketball",
+      "category": "sports"
+    },
+    {
+      "id": "63",
+      "name": "Tennis Racket",
+      "category": "sports"
+    },
+    {
+      "id": "64",
+      "name": "Cricket Bat",
+      "category": "sports"
+    },
+    {
+      "id": "65",
+      "name": "Baseball Glove",
+      "category": "sports"
+    },
+    {
+      "id": "66",
+      "name": "Hockey Stick",
+      "category": "sports"
+    },
+    {
+      "id": "67",
+      "name": "Skateboard",
+      "category": "sports"
+    },
+    {
+      "id": "68",
+      "name": "Golf Clubs",
+      "category": "sports"
+    },
+    {
+      "id": "69",
+      "name": "Badminton Racket",
+      "category": "sports"
+    },
+    {
+      "id": "70",
+      "name": "Table Tennis Paddle",
+      "category": "sports"
+    },
+    {
+      "id": "71",
+      "name": "Dumbbells",
+      "category": "fitness"
+    },
+    {
+      "id": "72",
+      "name": "Yoga Mat",
+      "category": "fitness"
+    },
+    {
+      "id": "73",
+      "name": "Resistance Bands",
+      "category": "fitness"
+    },
+    {
+      "id": "74",
+      "name": "Treadmill",
+      "category": "fitness"
+    },
+    {
+      "id": "75",
+      "name": "Exercise Bike",
+      "category": "fitness"
+    },
+    {
+      "id": "76",
+      "name": "Jump Rope",
+      "category": "fitness"
+    },
+    {
+      "id": "77",
+      "name": "Pull-Up Bar",
+      "category": "fitness"
+    },
+    {
+      "id": "78",
+      "name": "Weight Bench",
+      "category": "fitness"
+    },
+    {
+      "id": "79",
+      "name": "Rowing Machine",
+      "category": "fitness"
+    },
+    {
+      "id": "80",
+      "name": "Medicine Ball",
+      "category": "fitness"
+    },
+    {
+      "id": "81",
+      "name": "Portable Power Bank",
+      "category": "electronics"
+    },
+    {
+      "id": "82",
+      "name": "Bluetooth Speaker",
+      "category": "electronics"
+    },
+    {
+      "id": "83",
+      "name": "Wireless Earbuds",
+      "category": "electronics"
+    },
+    {
+      "id": "84",
+      "name": "Fitness Tracker",
+      "category": "electronics"
+    },
+    {
+      "id": "85",
+      "name": "External Hard Drive",
+      "category": "electronics"
+    },
+    {
+      "id": "86",
+      "name": "Smart Home Assistant",
+      "category": "electronics"
+    },
+    {
+      "id": "87",
+      "name": "Gaming Mouse",
+      "category": "electronics"
+    },
+    {
+      "id": "88",
+      "name": "Noise Cancelling Headphones",
+      "category": "electronics"
+    },
+    {
+      "id": "89",
+      "name": "Smartphone",
+      "category": "electronics"
+    },
+    {
+      "id": "90",
+      "name": "Laptop Stand",
+      "category": "electronics"
+    },
+    {
+      "id": "91",
+      "name": "Smartwatch",
+      "category": "electronics"
+    },
+    {
+      "id": "92",
+      "name": "Wireless Charger",
+      "category": "electronics"
+    },
+    {
+      "id": "93",
+      "name": "Digital Camera",
+      "category": "electronics"
+    },
+    {
+      "id": "94",
+      "name": "Keyboard & Mouse Combo",
+      "category": "electronics"
+    },
+    {
+      "id": "95",
+      "name": "Wall Art",
+      "category": "home_decor"
+    },
+    {
+      "id": "96",
+      "name": "Decorative Vase",
+      "category": "home_decor"
+    },
+    {
+      "id": "97",
+      "name": "Throw Blanket",
+      "category": "home_decor"
+    },
+    {
+      "id": "98",
+      "name": "Floor Lamp",
+      "category": "home_decor"
+    },
+    {
+      "id": "99",
+      "name": "Scented Candles",
+      "category": "home_decor"
+    },
+    {
+      "id": "100",
+      "name": "Table Runner",
+      "category": "home_decor"
+    },
+    {
+      "id": "101",
+      "name": "Cushion Covers",
+      "category": "home_decor"
+    },
+    {
+      "id": "102",
+      "name": "Wall Clock",
+      "category": "home_decor"
+    },
+    {
+      "id": "103",
+      "name": "Photo Frames",
+      "category": "home_decor"
+    },
+    {
+      "id": "104",
+      "name": "Bookshelf",
+      "category": "home_decor"
+    },
+    {
+      "id": "105",
+      "name": "Indoor Plant",
+      "category": "home_decor"
+    },
+    {
+      "id": "106",
+      "name": "Decorative Tray",
+      "category": "home_decor"
+    },
+    {
+      "id": "107",
+      "name": "Hanging Planters",
+      "category": "home_decor"
+    },
+    {
+      "id": "108",
+      "name": "Coasters",
+      "category": "home_decor"
+    },
+    {
+      "id": "ea36",
+      "name": "rope band",
+      "category": "fitness",
+      "price": 14
+    },
+    {
+      "id": "4f6b",
+      "name": "induction pan",
+      "category": "kitchen",
+      "price": 12
+    }
+  ]
+}
